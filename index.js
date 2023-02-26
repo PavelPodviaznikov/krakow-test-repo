@@ -1,1 +1,5 @@
-alert("Hello, World!");
+function start() {
+  console.log("This is start function");
+};
+
+start();
