@@ -1,5 +1,5 @@
 function start() {
-  console.log("This is start function");
+  console.log("This is super start function");
 };
 
 start();
